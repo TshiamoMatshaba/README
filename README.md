@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tshiamo Masthaba</h1>
+<h1 align="center">Hi 👋, I'm Tshiamo Matshaba</h1>
 <h3 align="center">Aspiring Data Scientist | 3x Microsoft Certified (PL-300, DP-900, AZ-900) | Data Scientist | Data Analyst | Python • Power BI • Azure • Excel • Google Analytics | Cloud & Data Analytics | Business Intelligence Analyst| Final Year BSc IT (Data Science)</h3>
 
 - 🔭 I’m currently working on: **Building end-to-end data science projects**
